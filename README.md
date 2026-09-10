@@ -30,12 +30,9 @@ I build scalable web applications, design RESTful APIs, and integrate intelligen
 
 ### 📊 GitHub Activity & Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tokollo-server&show_icons=true&theme=dark" alt="Tokollo's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tokollo-server&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tokollo-server&theme=dark" alt="GitHub Streak" />
 </p>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tokollo-server&theme=dark)
 
 ---
 
@@ -61,4 +58,5 @@ I build scalable web applications, design RESTful APIs, and integrate intelligen
 ---
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Tokollo-server&color=blueviolet&style=flat-square)
+
 
