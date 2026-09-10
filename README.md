@@ -1,14 +1,14 @@
-# Hi, I'm Tokollo Mokalodise 
+# Hi, I'm Tokollo Mokalodise 👋
 
-### Junior Software & Full-Stack Developer | MERN Stack & AI Engineering[span_0](start_span)[span_0](end_span)
+### Junior Software & Full-Stack Developer | MERN Stack & AI Engineering
 
-I build scalable web applications, design RESTful APIs, and integrate intelligent automation workflows[span_1](start_span)[span_1](end_span).
+I build scalable web applications, design RESTful APIs, and integrate intelligent automation workflows.
 
-- 🔭 **Currently working on:** Search Intelligence Data Contracts and full-stack MERN applications[span_2](start_span)[span_2](end_span)
-- 🌱 **Currently learning:** Advanced AI API orchestration, system design, and Python ML pipelines[span_3](start_span)[span_3](end_span)
-- 💬 **Ask me about:** React.js, Node.js, Express, MongoDB, and Anthropic Claude MCP[span_4](start_span)[span_4](end_span)
-- 📍 **Based in:** South Africa[span_5](start_span)[span_5](end_span)
-- 📫 **Contact me:** [tokollomokalodise021@gmail.com](mailto:tokollomokalodise021@gmail.com)[span_6](start_span)[span_6](end_span)
+- 🔭 **Currently working on:** Search Intelligence Data Contracts and full-stack MERN applications
+- 🌱 **Currently learning:** Advanced AI API orchestration, system design, and Python ML pipelines
+- 💬 **Ask me about:** React.js, Node.js, Express, MongoDB, and Anthropic Claude MCP
+- 📍 **Based in:** South Africa
+- 📫 **Contact me:** [tokollomokalodise021@gmail.com](mailto:tokollomokalodise021@gmail.com)
 
 ---
 
@@ -39,26 +39,26 @@ I build scalable web applications, design RESTful APIs, and integrate intelligen
 ## 🚀 Featured Projects
 
 ### AI Dropshipping Platform
-An intelligent eCommerce system utilizing MERN stack architecture, integrated with Shopify API and OpenAI API for automated customer service chat and product recommendations[span_7](start_span)[span_7](end_span).
+An intelligent eCommerce system utilizing MERN stack architecture, integrated with Shopify API and OpenAI API for automated customer service chat and product recommendations.
 
-**Technologies:** React.js, Node.js, Express, MongoDB, Shopify API, OpenAI API[span_8](start_span)[span_8](end_span)
+**Technologies:** React.js, Node.js, Express, MongoDB, Shopify API, OpenAI API
 
 ### Search Intelligence Data Contract
-A diagnostics and auditing engine built for performance datasets, implementing deterministic rule-agreement checks to isolate target data leakage and contamination[span_9](start_span)[span_9](end_span).
+A diagnostics and auditing engine built for performance datasets, implementing deterministic rule-agreement checks to isolate target data leakage and contamination.
 
 **Technologies:** Python, Data Engineering, ML Diagnostics
 
 ### CarInventory Web Application
-A secure full-stack CRUD application for centralized vehicle inventory tracking, featuring JSON Web Token (JWT) user authentication and protected REST API endpoints[span_10](start_span)[span_10](end_span).
+A secure full-stack CRUD application for centralized vehicle inventory tracking, featuring JSON Web Token (JWT) user authentication and protected REST API endpoints.
 
-**Technologies:** MongoDB, Express.js, React.js, Node.js, JWT, Bootstrap[span_11](start_span)[span_11](end_span)
+**Technologies:** MongoDB, Express.js, React.js, Node.js, JWT, Bootstrap
 
 ---
 
 ## 📜 Certifications
 
-- **Anthropic Academy:** AI Fluency Framework & Foundations | Introduction to Model Context Protocol | Claude Code 101[span_12](start_span)[span_12](end_span)
-- **HyperionDev / Stellenbosch University:** Full-Stack Web Development Certificate[span_13](start_span)[span_13](end_span)
+- **Anthropic Academy:** AI Fluency Framework & Foundations | Introduction to Model Context Protocol | Claude Code 101
+- **HyperionDev / Stellenbosch University:** Full-Stack Web Development Certificate
 
 ---
 
@@ -72,8 +72,8 @@ A secure full-stack CRUD application for centralized vehicle inventory tracking,
 
 ## 🤝 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tokollo-dev.vercel.app)[span_14](start_span)[span_14](end_span)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tokollomokalodise021@gmail.com)[span_15](start_span)[span_15](end_span)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tokollo-dev.vercel.app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tokollomokalodise021@gmail.com)
 
 ---
 
