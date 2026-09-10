@@ -1,4 +1,4 @@
-# Hi, I'm Tokollo Mokalodise 👋
+# Hi, I'm Tokollo Mokalodise 
 
 ### Junior Software & Full-Stack Developer | MERN Stack & AI Engineering
 
@@ -70,7 +70,7 @@ A secure full-stack CRUD application for centralized vehicle inventory tracking,
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tokollo-dev.vercel.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tokollomokalodise021@gmail.com)
